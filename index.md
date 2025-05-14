@@ -127,14 +127,15 @@ El que **mejor use la IA**, tendrá ventaja.
 ---
 ## Recomendaciones generales
 1. Inglés.
+1. Magnitud >> dirección (!!!)
 1. Exposición internacional (e.g., Erasmus).
 1. Proactividad es clave ("saber moverse").
 1. Mente abierta, Pontevedra es un mundo mucho más pequeño y sesgado de lo que os podáis imaginar.
 1. El mundo no es justo: qué estudiamos, dónde lo estudiamos, con quién lo estudiamos y donde hemos trabajado antes importa y mucho. Las buenas noticias: "subir de nivel" casi siempre es posible.
-1. El trabajo no lo es todo.
 
 ---
 ## Recomendaciones generales (II)
+1. El trabajo no lo es todo.
 1. Alejarse/rechazar factores limitantes y acercarse a factores potenciadores: gente, empresas, ambientes, ...
 1. El ámbito, alcance y valor que aportas >>> tu esfuerzo.
 1. Reevaluar a menudo.
